@@ -1,12 +1,12 @@
-# DEV25-G00-P2
-Repositorio creado por Federico Peinado en base al repositorio anterior DEV25-G00-P1
+# DEV25-G00-P3
+Repositorio creado por Federico Peinado en base al repositorio anterior DEV25-G00-P2
 El código y los recursos que no son de terceros, se distribuyen bajo la licencia LGPL.
 
 ## Descripción
-Se trata de un prototipo básico de videojuego de puzles 3D para Unreal Engine 5.6 en el que controlamos a un personaje aprendiz de mago que debe realizar una serie de tareas domésticas, usando la magia, para conseguir sacos de harina para su maestro. 
+Se trata de un prototipo básico de videojuego de acción 3D para Unreal Engine 5.6 en el que controlamos a un robot con un compañero que se enfrenta a otros dos en una batalla por 'pringar veletas'.
 
 ## Punto de partida
-El punto de partida de este proyecto es la plantilla TopDown sin variantes. 
+El punto de partida de este proyecto es la plantilla FirstPerson con la variante ArenaShooter.
 
 ## Instalación y uso
 Los ficheros más importantes del proyecto están disponible en este repositorio, aunque algunos ficheros binarios potencialmente grandes están en el almacén GitHub LFS asociado, y por lo tanto se requiere tener activa la extensión Git LFS cuando lo descarguemos con GitHub Desktop o similar. 
@@ -15,11 +15,11 @@ El resto de los ficheros, generalmente de contenido muy pesado o creado por terc
 
 Para este proyecto en particular hace falta descargar los ficheros ZIP, que ya incluyen las carpetas del mismo nombre, para descomprimirlas directamente en Content: 
 * Characters
-* Cursor
+* FirstPerson
 * LevelPrototyping
-* StarterContent
-* StylizedProvencal
-* TopDown
+* StarterContent?
+* VariantShooter
+* Weapons
 
 ¡El proyecto ya está listo para ser usado!
 
